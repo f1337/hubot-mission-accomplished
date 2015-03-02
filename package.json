@@ -1,8 +1,8 @@
 {
-  "name": "hubot-victory",
-  "description": "A hubot script to show victorious images",
-  "version": "1.2.0",
-  "author": "JJ Asghar <jjasghar@gmail.com>",
+  "name": "hubot-mission-accomplished",
+  "description": "A hubot script to show Mission Accomplished images",
+  "version": "0.0.1",
+  "author": "Michael R. Fleet <github.com/f1337>",
   "license": "MIT",
 
   "keywords": [
@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git@github.com:hubot-scripts/hubot-victory.git"
+    "url": "git@github.com:f1337/hubot-mission-accomplished.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-victory/issues"
+    "url": "https://github.com/f1337/hubot-mission-accomplished/issues"
   },
 
   "dependencies": {
